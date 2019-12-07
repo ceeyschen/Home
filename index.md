@@ -1,6 +1,6 @@
 ## About Me
 
-I am currenttly a Ph.D. student under the supervision of Prof. [Bing Guo](https://cs.scu.edu.cn/info/1074/3993.htm)
+I am currenttly a Ph.D. student under the supervision of Prof. [Bing Guo](http://sw.scu.edu.cn/info/1194/4575.htm)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
