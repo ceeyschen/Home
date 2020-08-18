@@ -17,4 +17,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Publications
 
-1.Activity Recognition
+**Chen, Yaosen**, Bing Guo, Yan Shen, Wei Wang, Xinhua Suo, and Zhen Zhang. “Using Efficient Group Pseudo-3D Network to Learn Spatio-Temporal Features.” Signal, Image and Video Processing, August 3, 2020. https://doi.org/10.1007/s11760-020-01758-5.
+
+Wang, Wei, Bing Guo, Yan Shen, Han Yang, **Yaosen Chen**, and Xinhua Suo. “Twin Labeled LDA: A Supervised Topic Model for Document Classification.” Applied Intelligence, July 28, 2020. https://doi.org/10.1007/s10489-020-01798-x.
+
+
